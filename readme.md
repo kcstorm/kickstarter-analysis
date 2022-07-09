@@ -10,11 +10,11 @@ Much of the collected data spans roughly 8 years and includes a full spectrum of
 ### Analysis of Outcomes Based on Launch Date
 It appears that she will most benefit from launching her campaign in May, as pledges historically peeked around June with a steading decline thereafter.
 #### Outcome Chart images
->[Theater Outcomes based on Launch Date] ./Theater_Outcomes_vs_Launch.png
+>[Theater Outcomes based on Launch Date] (Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 Based on the breakdown of the amount pledged, campaigns that had set goals between $1000 and $15,000 were the most successful.
 #### Outcome Chart images
->[Outcomes Based on Goals] ./Outcomes_vs_Goals.png
+>[Outcomes Based on Goals] (Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 1. Outliers in the dataset.
 2. Writing out the Goals table functions.
